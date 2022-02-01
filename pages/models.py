@@ -1,12 +1,1 @@
-from turtle import title, update
-from django.db import models
-
-
-class Page(models.Model):
-    title = models.CharField(max_length=60)
-    permalink = models.CharField(max_length=12, unique=True)
-    update_date = models.DateTimeField('Last Updated')
-    body_text = models.TextField('Page Content', blank=True)
-    
-    def __str__(self):
-        return self.title
+/annex/objects/SHA256E-s364--1ad5729e5fac49df9c6669bdb0d882ec0f3c0f6406438aa37ac4853319809f1a.py

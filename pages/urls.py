@@ -1,7 +1,1 @@
-from django.urls import path
-from . import views
-
-urlpatterns = [
-    path('', views.index, name='index'),
-]
- 
+/annex/objects/SHA256E-s110--75d2235089ecc67edfba8d11e9a8a9f248dec8748fb3fed5778ba0d7901b44ca.py

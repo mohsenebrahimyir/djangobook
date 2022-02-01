@@ -1,4 +1,1 @@
-asgiref==3.5.0
-Django==3.2
-pytz==2021.3
-sqlparse==0.4.2
+/annex/objects/SHA256E-s56--08a9ab365a184eaa73d14bfa8e0836fd08acf366cf3a79c617e8066f91a6be04.txt

@@ -1,7 +1,1 @@
-from django.shortcuts import render
-from django.http import HttpResponse
-
-
-
-def index(request):
-    return HttpResponse("<h1>The Meandco Homepage</h1>")
+/annex/objects/SHA256E-s153--f67e466e169833fe5db6107e9ed17756e84952fd67843f7b08e942c865d6ebb0.py

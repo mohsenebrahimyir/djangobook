@@ -1,2 +1,1 @@
-# djangobook
-The Django Book
+/annex/objects/SHA256E-s29--7568482ad56d31058937a905046e0949b136034916754990976a1802cdbaf41b.md

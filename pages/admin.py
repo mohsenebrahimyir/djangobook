@@ -1,11 +1,1 @@
-from re import search
-from django.contrib import admin
-from .models import Page
-
-
-class PageAdmin(admin.ModelAdmin):
-    list_display = ('title', 'update_date')
-    ordering = ('title',)
-    search_fields = ('title',)
-
-admin.site.register(Page, PageAdmin)
+/annex/objects/SHA256E-s256--25083d46bba703b506f309b8a98f7cb749ae20a79c39f22dbd4b59a327633bb1.py

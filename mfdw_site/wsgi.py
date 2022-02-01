@@ -1,16 +1,1 @@
-"""
-WSGI config for mfdw_site project.
-
-It exposes the WSGI callable as a module-level variable named ``application``.
-
-For more information on this file, see
-https://docs.djangoproject.com/en/3.2/howto/deployment/wsgi/
-"""
-
-import os
-
-from django.core.wsgi import get_wsgi_application
-
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mfdw_site.settings')
-
-application = get_wsgi_application()
+/annex/objects/SHA256E-s395--316a4c6f6e2ff7bb41587315fe833374b6693b86130f11e3b1d069af14939569.py
