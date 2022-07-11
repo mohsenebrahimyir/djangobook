@@ -1,5 +1,3 @@
-from re import template
-from sre_constants import SUCCESS
 from django.shortcuts import render
 from django.http import HttpResponseRedirect
 from django.views.generic.list import ListView
